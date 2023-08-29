@@ -1,6 +1,6 @@
 
 <p align="center">
-🦄 Be a Better Programmer 🦄
+Be a Better Programmer 🦄
 </p>
 
 <p align="center">
