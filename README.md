@@ -1,9 +1,9 @@
 
 <p align="center">
 # Be a Better Programmer
+<br>
 A guide and other educational content to help guide developers in picking up a path and guide their learnings. 🚀
-  <br>
-  <br>
+<br>
 </p>
 
 
