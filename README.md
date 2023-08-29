@@ -39,7 +39,7 @@ A guide and other educational content to help guide developers in picking up a p
 - **[Free Books](https://github.com/EbookFoundation/free-programming-books)**
 - **[Free Certifications](https://github.com/cloudcommunity/Free-Certifications)**
 
-### Get your ideas off paper
+### 📚 Get your ideas off paper
 
 ### 🚒 Fallow Roadmaps
 - **[RoadMap](https://roadmap.sh/)**
