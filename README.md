@@ -20,14 +20,20 @@ A guide and other educational content to help guide developers in picking up a p
 ### 📚 Learn how to write clean code:
 **[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)**
 
-### 👨‍💻 Learn English
+### 👨‍💻 Learn English:
 The English is the language of an programmer
 **[English Tips](https://github.com/yvoronoy/awesome-english)**
+
+### 🦄 Learn how to use Artificial intelligence
+**[How You Can Use AI to Improve Your Code Quality](https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/)**
+
 
 ### 🧑‍🚀 Keep up to date:
 **[Free Courses](https://github.com/free-courses/free-courses.github.io)**
 **[Free Books](https://github.com/EbookFoundation/free-programming-books)**
 **[Free Certifications](https://github.com/cloudcommunity/Free-Certifications)**
+
+### Get your ideas off paper
 
 ### 🚒 Fallow Roadmaps
 **[RoadMap](https://roadmap.sh/)**
