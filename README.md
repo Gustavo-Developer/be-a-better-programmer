@@ -1,10 +1,12 @@
 
 <p align="center">
 # Be a Better Programmer
-<br>
-A guide and other educational content to help guide developers in picking up a path and guide their learnings. 🚀
-<br>
 </p>
+
+<p align="center">
+A guide and other educational content to help guide developers in picking up a path and guide their learnings. 🚀
+</p>
+
 
 
 ### 🦄 Be active on forums like a:
